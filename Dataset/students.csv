@@ -1,0 +1,101 @@
+StudentID,Name,Email,Phone,Department,CGPA,Semester,DegreeProgram
+1,Tonya Hall,icarson@example.org,707.214.3409x86,BBA,2.44,6,Bachelor of Business Administration
+2,Hunter Smith,yolanda71@example.org,964-397-7261x91,BSCS,2.46,1,BS Computer Science
+3,Arthur Hunt,jeremy26@example.com,403-365-1232x55,BSIT,2.8,2,BS Information Technology
+4,Jordan Blake,dawnbuckley@example.com,001-697-392-767,BSSE,3.83,6,BS Software Engineering
+5,Andrew Carter,masonannette@example.com,001-945-253-034,BSSE,3.31,7,BS Software Engineering
+6,Dr. Melvin Smith,colemansamantha@example.net,001-311-326-907,BSAI,2.29,3,BS Artificial Intelligence
+7,Omar Lee,markhull@example.org,001-791-566-062,BSSE,3.49,5,BS Software Engineering
+8,Andrea Tucker,patricia04@example.org,+1-510-609-6709,BBA,2.86,7,Bachelor of Business Administration
+9,Crystal Cooper,rhonda71@example.com,+1-677-554-3187,BSIT,2.44,3,BS Information Technology
+10,Alyssa Bass,johnrichards@example.com,693-751-1729,BBA,2.99,1,Bachelor of Business Administration
+11,Bonnie Mitchell,seanjennings@example.net,439-252-6505,BSCS,2.31,3,BS Computer Science
+12,Susan Trevino,alanreed@example.net,(356)334-4436x7,BSAI,3.19,7,BS Artificial Intelligence
+13,Sara Holmes,raymondwest@example.net,(268)927-8149,BSAI,3.19,8,BS Artificial Intelligence
+14,Kevin White,linda52@example.org,001-245-517-815,BBA,2.5,1,Bachelor of Business Administration
+15,Robert Soto,pyang@example.com,001-565-552-580,BSCS,3.36,5,BS Computer Science
+16,Joshua Johnson,brian52@example.org,745.834.5066,BSIT,2.22,7,BS Information Technology
+17,Cody Morales,wortiz@example.org,932-610-7340,BSSE,2.91,5,BS Software Engineering
+18,Thomas Crawford,david50@example.net,226-482-8413x14,BBA,3.52,2,Bachelor of Business Administration
+19,Samantha Wilson,amandaadams@example.net,(673)622-1983,BSIT,3.68,4,BS Information Technology
+20,Jason Spence,kbaker@example.com,+1-959-312-6384,BSSE,2.75,3,BS Software Engineering
+21,Michael Williams,tmathis@example.net,+1-493-498-5125,BBA,3.91,1,Bachelor of Business Administration
+22,Amy Dunn,melissa33@example.net,001-753-340-000,BBA,2.65,1,Bachelor of Business Administration
+23,Edgar Thompson,perezcandice@example.net,813-731-0310,BSCS,3.86,5,BS Computer Science
+24,Jeremy Calderon,matthewmartin@example.com,744-330-6177,BSSE,2.12,2,BS Software Engineering
+25,Cristina English,wesley53@example.org,+1-294-728-9431,BSCS,3.46,2,BS Computer Science
+26,Kevin Wolfe,smithrobert@example.com,001-397-891-090,BBA,3.53,3,Bachelor of Business Administration
+27,Dr. Kristina Cooper,gbarrett@example.net,4519778400,BSAI,3.89,3,BS Artificial Intelligence
+28,Preston Brock,wellsalexis@example.com,(302)794-0196,BSIT,3.06,7,BS Information Technology
+29,Sean Brown,william91@example.org,+1-886-771-8511,BSSE,3.86,4,BS Software Engineering
+30,Elijah Morrison,gdelgado@example.org,888.918.4636,BSIT,2.8,6,BS Information Technology
+31,Vincent Gamble PhD,jacobwells@example.org,(907)354-6993,BSAI,3.8,8,BS Artificial Intelligence
+32,Samantha Wilson,mary77@example.com,6764461684,BSCS,2.5,2,BS Computer Science
+33,Christine Williams,kfitzgerald@example.com,377.953.9489,BSIT,2.04,4,BS Information Technology
+34,Travis Neal,hrogers@example.com,757.295.9004x01,BBA,2.44,2,Bachelor of Business Administration
+35,Roy Hicks,anneoneal@example.net,8893262645,BSCS,2.46,1,BS Computer Science
+36,Jonathan Garcia,ycox@example.net,+1-525-929-7046,BSIT,2.14,4,BS Information Technology
+37,Natalie Williams,ichristian@example.org,784-755-3921,BSIT,3.34,4,BS Information Technology
+38,Nancy Collins,charlesnelson@example.net,001-227-544-676,BBA,2.26,8,Bachelor of Business Administration
+39,Lindsay King,juanhendrix@example.net,001-755-372-935,BSSE,3.57,7,BS Software Engineering
+40,Sarah Wang,vanessadixon@example.net,+1-575-220-3720,BSSE,2.19,7,BS Software Engineering
+41,Thomas Gilbert,perezstacey@example.com,632.608.0426x20,BSIT,2.85,8,BS Information Technology
+42,Robert Caldwell,tward@example.net,001-700-461-742,BSCS,3.35,2,BS Computer Science
+43,Grant Vincent,greenzachary@example.com,(456)992-3170,BSCS,2.81,6,BS Computer Science
+44,Billy Taylor,joshua05@example.com,(771)275-0550,BSCS,2.5,4,BS Computer Science
+45,Nathan Ramirez,figueroastacy@example.org,+1-652-802-6231,BBA,2.9,7,Bachelor of Business Administration
+46,Timothy Johnson,allen69@example.net,+1-343-449-0311,BSSE,2.56,4,BS Software Engineering
+47,Christopher Giles,deborah93@example.com,495.349.1461,BSCS,2.89,2,BS Computer Science
+48,Mark Thompson,sarah02@example.com,+1-598-902-8534,BSCS,3.3,1,BS Computer Science
+49,Kellie Duncan,brooksmark@example.com,+1-975-530-6863,BSCS,3.85,4,BS Computer Science
+50,Sarah Murphy,dwright@example.com,8702951625,BSSE,2.81,8,BS Software Engineering
+51,John Peterson,ymyers@example.net,+1-360-518-0377,BSSE,3.73,1,BS Software Engineering
+52,Gregory Smith,christopher01@example.net,+1-209-513-7369,BSSE,2.76,7,BS Software Engineering
+53,Bryan Richardson,dustinhall@example.net,(781)594-8947x8,BSIT,3.85,8,BS Information Technology
+54,William Patterson,stevenlloyd@example.org,+1-576-468-0454,BSIT,2.85,8,BS Information Technology
+55,Joshua Tran,nicole79@example.net,001-252-483-222,BSSE,2.38,4,BS Software Engineering
+56,Linda Hanson,vasqueztina@example.com,+1-240-397-4106,BSCS,3.16,1,BS Computer Science
+57,Michael Perry,kennethhenderson@example.net,(601)854-3611x5,BSIT,2.11,8,BS Information Technology
+58,James Smith,vanessaromero@example.com,804.286.2178,BBA,3.84,3,Bachelor of Business Administration
+59,Diane Quinn,dsullivan@example.org,5706971067,BSCS,3.92,2,BS Computer Science
+60,Catherine Rowland,lmartinez@example.org,001-477-411-015,BSSE,2.14,2,BS Software Engineering
+61,Paul Mendez,marie58@example.org,611.893.4094x79,BSSE,2.81,4,BS Software Engineering
+62,William Stout,jamesmoore@example.net,001-601-320-267,BBA,3.19,2,Bachelor of Business Administration
+63,Michele Lester,hwilliams@example.net,001-603-210-531,BSAI,3.31,6,BS Artificial Intelligence
+64,Sarah Berg,michael49@example.net,503.862.4882,BSIT,2.41,6,BS Information Technology
+65,Michael Rodriguez,trevinomichelle@example.net,001-226-539-911,BSSE,2.53,3,BS Software Engineering
+66,Allen Flores,randalljackson@example.org,7654129942,BSIT,2.91,2,BS Information Technology
+67,Lisa Pittman,robertwilliams@example.org,+1-877-855-5981,BSCS,2.92,2,BS Computer Science
+68,Jerry Garrison,david17@example.net,001-715-581-457,BSCS,3.08,5,BS Computer Science
+69,Lance Thomas,jackmarshall@example.net,(899)543-1656,BSSE,3.87,2,BS Software Engineering
+70,Nathan Anderson,edward04@example.org,(264)579-9611,BSSE,2.74,3,BS Software Engineering
+71,Scott Conway,vharris@example.com,+1-818-566-8750,BSAI,3.67,5,BS Artificial Intelligence
+72,Amy Jackson,megan58@example.com,001-558-201-293,BBA,3.97,1,Bachelor of Business Administration
+73,Ruben Hernandez,linanthony@example.org,721-411-3741x60,BBA,2.6,2,Bachelor of Business Administration
+74,Joseph Adams,mphillips@example.org,+1-472-794-6132,BSSE,2.53,2,BS Software Engineering
+75,Morgan Graham,susanharris@example.net,001-846-307-596,BBA,2.31,5,Bachelor of Business Administration
+76,Cassandra Rodriguez,tylerlane@example.net,402.891.9142x34,BBA,2.42,6,Bachelor of Business Administration
+77,Mario Stokes,andrewmccullough@example.net,+1-886-313-6142,BSSE,3.37,5,BS Software Engineering
+78,Crystal Fields,morgan67@example.com,(656)277-6683x0,BBA,2.98,1,Bachelor of Business Administration
+79,Alexander Reynolds,megan98@example.net,+1-474-956-0998,BSCS,3.27,5,BS Computer Science
+80,David Johnson,lisahicks@example.net,618.693.7961x17,BSCS,2.01,3,BS Computer Science
+81,Brian Schmidt,charles43@example.net,001-718-520-891,BSIT,2.32,8,BS Information Technology
+82,Geoffrey Sawyer,sandra40@example.com,(786)879-9100,BBA,3.41,1,Bachelor of Business Administration
+83,Justin Walls,cheryl96@example.net,593.928.9377,BSCS,2.15,3,BS Computer Science
+84,Mark Young,laurenjohnson@example.org,(789)258-9647,BBA,2.07,6,Bachelor of Business Administration
+85,Lisa Mcpherson,srobbins@example.org,(217)642-8161x7,BBA,3.11,7,Bachelor of Business Administration
+86,Maria Walton,deannafrazier@example.org,001-352-647-366,BSSE,2.08,6,BS Software Engineering
+87,Jennifer Simon DDS,cburke@example.org,+1-277-882-6587,BSCS,3.8,4,BS Computer Science
+88,James Carrillo,ramirezsarah@example.net,293-854-2708x36,BSSE,3.33,6,BS Software Engineering
+89,Haley Larson,bryantgreg@example.com,+1-932-928-2394,BBA,3.77,7,Bachelor of Business Administration
+90,Lydia Davis,tcook@example.net,432-982-4398,BBA,3.5,4,Bachelor of Business Administration
+91,Sara Carter,ronaldwillis@example.net,7273430465,BSSE,3.95,3,BS Software Engineering
+92,Traci Sims,susansnyder@example.com,814.916.5571x31,BSAI,2.05,6,BS Artificial Intelligence
+93,Debra Morris,vwilliams@example.com,948-234-6722x32,BSAI,3.6,4,BS Artificial Intelligence
+94,Stephen Dennis,phenderson@example.com,(525)831-1150,BSIT,2.32,2,BS Information Technology
+95,Gary Maddox,fwalters@example.net,001-708-653-608,BSAI,3.74,8,BS Artificial Intelligence
+96,Annette Armstrong DDS,ehiggins@example.net,001-308-717-230,BSSE,2.4,8,BS Software Engineering
+97,Lori Maynard,jake48@example.org,8495190811,BSIT,2.61,4,BS Information Technology
+98,Michelle Bishop,cristianjenkins@example.org,461.605.9157x78,BSSE,2.05,4,BS Software Engineering
+99,James King,christopherchapman@example.com,+1-562-433-9130,BSAI,2.66,2,BS Artificial Intelligence
+100,Christopher Hughes,loweeduardo@example.net,885-448-2586x99,BSIT,2.7,7,BS Information Technology

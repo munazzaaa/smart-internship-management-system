@@ -1,0 +1,101 @@
+InternshipID,CompanyID,Title,Description,Deadline,InternshipType,Duration,Stipend,WorkMode,InternshipCategory
+1,69,Chartered public finance accountant,Move authority forget argue across tax maybe people. Throw force at very team.,2026-07-16,Academic Credit,14,0,Remote,Engineering
+2,23,IT trainer,Something morning everybody yeah none huge. Know build company brother ability.,2026-06-25,Unpaid,22,0,Onsite,Engineering
+3,77,"Engineer, building services",Simple third about the. Consumer ball somebody.,2026-05-31,Paid,17,23827.48,Onsite,Finance
+4,66,Energy manager,Participant conference strong hand city. Must real there.,2026-06-19,Academic Credit,7,0,Onsite,Data Science
+5,33,"Scientist, research (physical sciences)",Community fall adult court production eye. Plant education very country.,2026-06-20,Paid,5,38351.41,Remote,Data Science
+6,88,Electrical engineer,Cut fish ask along. Travel third candidate foot enter generation act.,2026-07-29,Academic Credit,10,0,Onsite,Finance
+7,86,Television camera operator,Large training office dinner than call recently west.,2026-08-08,Paid,14,34926.22,Hybrid,Engineering
+8,39,Tourism officer,Various alone kind. Admit article only eight.,2026-06-24,Academic Credit,20,0,Onsite,HR
+9,42,Heritage manager,Meet enough feel need everyone relationship lead. Wear three third kind young.,2026-07-10,Unpaid,16,0,Hybrid,Marketing
+10,17,Telecommunications researcher,Produce thought product sing. Cost official cell and.,2026-06-29,Academic Credit,10,0,Onsite,HR
+11,87,Freight forwarder,Sport ball minute agent. Meeting happy outside process myself goal.,2026-06-25,Unpaid,9,0,Hybrid,Data Science
+12,52,Management consultant,Become wrong debate defense political community.,2026-07-08,Unpaid,21,0,Remote,Marketing
+13,27,Facilities manager,Bag head statement not interesting.,2026-08-01,Unpaid,17,0,Hybrid,Data Science
+14,42,Logistics and distribution manager,General sense long here reality. Rest face player include loss budget process weight.,2026-06-17,Academic Credit,18,0,Onsite,Finance
+15,28,"Conservator, furniture",Per rather money if these else.,2026-06-21,Academic Credit,20,0,Onsite,HR
+16,85,"Administrator, Civil Service",Receive company international at job produce. Feel above outside only win system environment.,2026-05-26,Paid,6,21351.46,Hybrid,HR
+17,43,Geographical information systems officer,Simply window step debate within rest call.,2026-06-23,Academic Credit,6,0,Remote,HR
+18,29,"Nurse, children's",Executive adult tend husband development daughter early.,2026-05-27,Unpaid,10,0,Remote,Engineering
+19,32,Social researcher,Billion rule hard citizen think. Appear tend goal happy.,2026-05-27,Paid,19,34450.96,Remote,Finance
+20,81,"Physicist, medical",Any development join perform five. Technology oil believe start order.,2026-06-25,Unpaid,22,0,Remote,HR
+21,50,Licensed conveyancer,Soldier financial loss wide indicate.,2026-07-04,Academic Credit,19,0,Onsite,Design
+22,84,"Designer, fashion/clothing",Defense create thank property.,2026-08-06,Paid,4,45706.39,Remote,Finance
+23,23,"Production assistant, radio",Mouth to even modern today Mrs run.,2026-06-13,Paid,20,28582.0,Hybrid,Design
+24,59,Company secretary,Protect mother game room appear good chance. Arrive before mission.,2026-07-06,Paid,8,42056.66,Hybrid,Data Science
+25,77,"Surveyor, planning and development",Plant help place attention star.,2026-06-11,Academic Credit,14,0,Onsite,Data Science
+26,65,Air broker,Up reality party story.,2026-06-24,Academic Credit,17,0,Hybrid,Finance
+27,96,Risk analyst,Fall stand sometimes environment yet pay thing. Senior hand free fact lay.,2026-07-16,Paid,19,28002.79,Remote,HR
+28,99,Arts development officer,Attention coach talk. Important professional contain sea fight seat.,2026-07-03,Unpaid,20,0,Onsite,HR
+29,36,Commissioning editor,Certainly network policy wind process man human. Financial believe matter himself popular during.,2026-07-14,Paid,18,13099.33,Onsite,Design
+30,43,Estate manager/land agent,Sound western western from film middle. Movement staff recently entire.,2026-07-08,Unpaid,14,0,Hybrid,Engineering
+31,20,Television camera operator,Only price lose pay son.,2026-08-04,Paid,11,25321.41,Remote,HR
+32,9,Community education officer,Population dinner bill growth. Head however industry answer apply nation.,2026-06-08,Paid,17,26303.97,Hybrid,Finance
+33,8,Estate manager/land agent,Size just prepare include specific economy.,2026-08-13,Unpaid,10,0,Onsite,Finance
+34,90,Pathologist,Land century fall coach too assume election age.,2026-07-13,Academic Credit,4,0,Hybrid,Finance
+35,1,"Engineer, drilling",Peace family future light.,2026-08-10,Unpaid,15,0,Onsite,Finance
+36,69,Advertising copywriter,Yard sport talk. Development me life region.,2026-06-04,Unpaid,21,0,Hybrid,Design
+37,29,Psychiatrist,Local create five next speak.,2026-05-27,Unpaid,12,0,Onsite,Finance
+38,50,Catering manager,Student data take factor yard.,2026-06-18,Paid,14,36754.94,Onsite,HR
+39,60,Museum/gallery exhibitions officer,Recent article newspaper morning. And trip effort close activity.,2026-07-30,Paid,8,49228.88,Hybrid,Engineering
+40,76,"Scientist, research (life sciences)",Thought dark Democrat describe become guess.,2026-06-05,Unpaid,22,0,Hybrid,Engineering
+41,83,"Designer, fashion/clothing",Cost send common force whether.,2026-08-03,Paid,17,15427.98,Onsite,Design
+42,34,Education administrator,Sign task market throw appear policy care.,2026-05-26,Paid,16,23094.11,Onsite,Marketing
+43,98,"Teacher, secondary school",Pay top per goal. Door American avoid strategy executive.,2026-07-21,Unpaid,16,0,Onsite,Finance
+44,11,Personal assistant,More check modern participant system. Probably degree allow government option.,2026-05-27,Unpaid,19,0,Remote,HR
+45,7,Learning mentor,Respond believe knowledge find thousand. Arm ready visit whatever challenge by.,2026-06-30,Academic Credit,15,0,Remote,HR
+46,100,Colour technologist,Employee high listen many enjoy.,2026-07-23,Paid,24,11610.33,Remote,Design
+47,3,Drilling engineer,Her exist majority across assume reach school.,2026-07-25,Paid,23,16095.29,Remote,Finance
+48,15,Biomedical engineer,Industry bring memory either edge. College rather most.,2026-08-08,Academic Credit,22,0,Remote,Finance
+49,33,Fish farm manager,Happy third be decade.,2026-07-15,Academic Credit,15,0,Remote,Data Science
+50,96,Bonds trader,Goal figure huge difficult. Listen stage tonight attack here.,2026-07-05,Academic Credit,7,0,Remote,Marketing
+51,75,Television production assistant,Professor art everybody red seven.,2026-06-18,Paid,4,47155.49,Hybrid,HR
+52,51,Geoscientist,Born join wind child without.,2026-07-29,Unpaid,10,0,Remote,Data Science
+53,81,Agricultural engineer,Usually build specific red analysis. Trade key country happy control affect.,2026-07-26,Academic Credit,11,0,Remote,HR
+54,88,Higher education lecturer,Situation fast ground manager cut.,2026-06-27,Unpaid,23,0,Remote,Data Science
+55,45,Barrister's clerk,We likely back true past also recently.,2026-06-18,Paid,21,27135.12,Onsite,Engineering
+56,83,Geographical information systems officer,Fire task nearly against hundred.,2026-07-11,Academic Credit,14,0,Remote,Finance
+57,14,"Surveyor, commercial/residential",Type detail hit born also though sound. Take man threat forget week.,2026-06-07,Unpaid,17,0,Onsite,HR
+58,91,"Doctor, hospital",Out moment check region memory suggest her president.,2026-07-11,Unpaid,8,0,Onsite,Design
+59,67,"Development worker, community",Remain keep know receive trip north nothing.,2026-06-18,Academic Credit,24,0,Onsite,Data Science
+60,100,"Merchandiser, retail",Program friend star ten. Ready health method memory.,2026-07-18,Academic Credit,19,0,Onsite,Finance
+61,76,Biomedical engineer,Address say alone full might add next. Day final add heart amount father.,2026-06-29,Academic Credit,12,0,Onsite,Design
+62,36,Building services engineer,Real on north eight. Paper bit realize statement.,2026-07-07,Paid,18,19754.54,Onsite,Data Science
+63,86,Contracting civil engineer,Anything rock despite indeed record.,2026-06-14,Academic Credit,16,0,Onsite,Engineering
+64,42,Private music teacher,Do leader minute individual.,2026-07-04,Unpaid,9,0,Onsite,Design
+65,34,Television/film/video producer,Data friend become summer act start accept.,2026-06-19,Unpaid,14,0,Onsite,Data Science
+66,36,Research scientist (life sciences),Off form special some big once.,2026-06-12,Academic Credit,21,0,Remote,Data Science
+67,11,"Surveyor, building control",Choice level social live cost.,2026-07-08,Paid,11,38802.99,Onsite,Data Science
+68,89,Commercial art gallery manager,Once particularly Democrat there mission appear include.,2026-08-09,Paid,19,35836.12,Onsite,Finance
+69,12,Medical sales representative,Box bar wait build myself sit. News really fact cost human.,2026-06-20,Paid,13,18863.86,Hybrid,Design
+70,85,Environmental manager,Determine owner section skin. Or seven data coach.,2026-07-25,Unpaid,22,0,Onsite,Finance
+71,68,Television camera operator,Morning when standard middle wish.,2026-07-08,Academic Credit,15,0,Onsite,HR
+72,43,Film/video editor,Easy me development speech.,2026-06-10,Academic Credit,15,0,Hybrid,Finance
+73,40,"Engineer, automotive",Tv yourself inside difference single food.,2026-05-28,Unpaid,12,0,Remote,Engineering
+74,25,Glass blower/designer,Customer glass beautiful impact. Left else area shoulder play.,2026-08-05,Academic Credit,14,0,Remote,HR
+75,98,Chartered loss adjuster,Develop building full push occur edge girl standard.,2026-06-13,Academic Credit,9,0,Remote,Design
+76,62,Scientific laboratory technician,Ten effect key choose free.,2026-07-27,Academic Credit,12,0,Hybrid,Data Science
+77,77,Chartered legal executive (England and Wales),Accept grow range better.,2026-07-11,Academic Credit,13,0,Remote,Design
+78,30,"Psychologist, educational",Continue candidate family go American degree explain.,2026-07-25,Unpaid,15,0,Remote,Marketing
+79,91,Estate agent,Successful key charge really table form side.,2026-06-15,Paid,21,15063.32,Remote,Engineering
+80,38,Purchasing manager,War hour fish back need blood political collection. Method clearly state none.,2026-06-26,Academic Credit,8,0,Hybrid,Finance
+81,2,Furniture designer,Skin star teacher peace easy. Difficult upon study.,2026-06-12,Paid,22,21373.57,Onsite,Finance
+82,24,Energy engineer,Stage really toward by same through.,2026-08-01,Unpaid,5,0,Onsite,Finance
+83,9,Television camera operator,Recently in wide red school west task. Agree clear according these listen once effect.,2026-06-23,Paid,16,29669.86,Hybrid,HR
+84,7,"Nurse, children's",Often so radio investment test would major social. With late network less travel.,2026-07-05,Academic Credit,8,0,Remote,Data Science
+85,11,"Engineer, civil (consulting)",Expert wife particular wonder whatever whose.,2026-06-12,Unpaid,11,0,Remote,Data Science
+86,78,Teaching laboratory technician,Fish conference care. Nearly later down step among strategy first beautiful.,2026-06-02,Unpaid,23,0,Hybrid,Design
+87,49,Equities trader,Dinner despite growth above.,2026-07-05,Academic Credit,18,0,Onsite,Marketing
+88,55,Music therapist,Record improve them picture ground.,2026-08-07,Academic Credit,13,0,Hybrid,Data Science
+89,79,"Editor, film/video",About dog fine food evidence sea.,2026-05-27,Paid,7,47903.61,Remote,HR
+90,34,Medical physicist,Customer value study example seek window eye admit.,2026-07-24,Paid,6,16282.28,Remote,Data Science
+91,21,Production manager,Southern appear traditional everyone leader. Light image road garden allow mind.,2026-07-30,Paid,4,26340.7,Hybrid,Data Science
+92,38,"Physicist, medical",Huge speak agency.,2026-07-15,Unpaid,5,0,Remote,Marketing
+93,37,Catering manager,Until yard recent although design good window plan.,2026-06-27,Academic Credit,18,0,Remote,HR
+94,34,Environmental education officer,Let spring over enjoy.,2026-06-04,Paid,24,33591.58,Remote,Finance
+95,70,Health and safety adviser,Rich movie suffer great travel.,2026-07-29,Paid,11,35905.39,Onsite,Design
+96,8,Chartered management accountant,Home argue door. Model increase carry morning pull reveal phone.,2026-05-27,Paid,9,41705.14,Hybrid,HR
+97,37,"Librarian, public",Wish really main.,2026-07-08,Academic Credit,18,0,Remote,Finance
+98,39,"Teacher, adult education",Do owner between difference treatment card.,2026-06-06,Academic Credit,16,0,Onsite,Data Science
+99,64,Veterinary surgeon,Stand film note positive.,2026-06-16,Academic Credit,18,0,Remote,Data Science
+100,56,Tax adviser,Method seat hundred example.,2026-06-21,Paid,14,34148.55,Remote,Engineering
